@@ -5,6 +5,8 @@ import os
 from werkzeug.utils import secure_filename
 from PIL import Image
 import Basic
+import Derivative
+import Spatial
 
  
 
